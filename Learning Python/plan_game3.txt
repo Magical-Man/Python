@@ -1,0 +1,89 @@
+  Starting paragraph - Thing
+
+You are on your journey to Mars,
+when suddenly, you look out
+the window of the spaceship
+and you see that part of your
+ship has been hit by an astroid
+gone loose from the astroid belt!
+The ship is crashing, and you will
+need to gather supplies in
+the time that you can,
+as well as contact your crew.
+You know that you are going to
+crash, so you need to get the
+things that are going to help
+you once you get onto the planet.
+The first thing that you should do
+is watch the emergency video
+that was given to you for this
+very situation.
+In order to do this you are going
+to need to find the video.
+Hurry! But there is also a
+combat system with the computer and we need
+to use computer combat in order to stop it.
+
+scenes
+
+  Death - Where you go when you make a mistake and you die
+  Note/Vid. - Where you watch the video detailing the actions you can make
+  Gear Finding - Where you go off and find the equipment you will need
+  Getting Team - Gathering your team together
+  Crashing - Ship crashes
+  Setting up base - Setting up base camp on mars
+  Communicating back to home - communicating to NASA
+  getting rescued - getting picked up
+
+Key Concepts
+  player
+  mars - about 6 mts travel - shorten cause future
+  ship
+  gear
+  communication in space - lots of satellites in a network, US and Russia
+  scene
+  Engine
+  Order
+  combat
+
+Class Hierarchy
+
+* Order
+  - next_scene
+  - opening_scene
+* Engine
+  - play
+* Scene
+  - enter
+  - combat
+    - code
+    - trivia
+    - math
+  * Death
+  * Window
+  * Video
+  * Gear
+  * Team
+  * Crash
+  * Communication
+  * Rescue / Ending
+
+
+
+Some Possible Actions
+
+* look
+* use
+# we are not able to use take because it will not transfer cause I’m stupid
+* speak I think this will be good because we can make the person say things specific to the scene and at the time
+ 
+
+@ maybe do something with where part of the plot is that we get to see who the hacker is?
+
+math 
+trivia
+random
+
+
+
+
